@@ -9,7 +9,7 @@ A generative animation system that recursively draws L-shaped structures using l
 
 ## 🛠️ Why I Built ThisMathematics in Art Design
 - This project is a fractal animation created for my Mathematics in Art Design course.
-- I chose the L-shape as the main structure because of its simple yet recursive beauty that fascinated me since childhood.
+- I chose the L-shape for its simple recursive beauty that fascinated me since childhood.
 - Watching the fractal grow is calming and reveals the elegance within mathematics.
 
 <br>
