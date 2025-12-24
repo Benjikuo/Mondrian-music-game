@@ -1,5 +1,5 @@
-# Recursive-L-shape-fractal-animation
-A generative animation system that recursively draws L-shaped structures using line-by-line rendering, scaling, and positional fractal expansion.
+# Mondrian-music-game
+a music game have mondrian style
 
 <p>
   <img src="./image/showcase.gif" width="600">
@@ -8,9 +8,9 @@ A generative animation system that recursively draws L-shaped structures using l
 <br>
 
 ## 🛠️ Why I Built This
-- This project is a fractal animation created for my Mathematics in Art Design course.
-- I chose the L-shape for its simple recursive beauty that fascinated me since childhood.
-- Watching the fractal grow is calming and reveals the elegance within mathematics.
+- This project is created for my Mathematics in Art Design course.
+- I chose this topic is becasue I think this is the best way to integrate art and music in my work
+- Alough I don't really play many games, I like to build it.
 
 <br>
 
